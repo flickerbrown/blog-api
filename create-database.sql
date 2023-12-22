@@ -1,0 +1,2 @@
+CREATE DATABASE blog_api;
+CREATE USER blog_admin SUPERUSER;
